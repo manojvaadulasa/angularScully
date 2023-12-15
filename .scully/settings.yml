@@ -1,0 +1,11 @@
+identifier: lbpbw5j9b360g5sa
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: dummyScully
+homeFolder: D:\Angular\dummyScully
+distFolder: dist/dummy-scully
+outDir: D:\Angular\dummyScully\dist\static\
+handle404: ''
+allowErrorCollect: true
